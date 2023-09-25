@@ -16,6 +16,9 @@ Questa organizzazione contiene il materiale del corso di Programmazione per la F
 - [Giulio Colombini](https://www.unibo.it/sitoweb/giulio.colombini2)
 - [Simone Rossi Tisbeni](https://www.unibo.it/sitoweb/simone.rossitisbeni)
 
+<details>
+<summary>A.a. 2022/23</summary>
+
 ## Link utili per a.a. 2022/23
 
 - [Sito del Corso](https://www.unibo.it/it/didattica/insegnamenti/insegnamento/2022/485311)
@@ -33,3 +36,4 @@ Questa organizzazione contiene il materiale del corso di Programmazione per la F
 - [Gianluca Bianco](https://www.unibo.it/sitoweb/gianluca.bianco4)
 - [Giulio Colombini](https://www.unibo.it/sitoweb/giulio.colombini2)
 - [Simone Rossi Tisbeni](https://www.unibo.it/sitoweb/simone.rossitisbeni)
+</details>
