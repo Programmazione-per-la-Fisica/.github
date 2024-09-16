@@ -13,7 +13,7 @@ Questa organizzazione contiene il materiale del corso di Programmazione per la F
 
 ## Tutor
 - [Alessandro Fuschi](https://www.unibo.it/sitoweb/alessandro.fuschi2)
-- Samuele Lanzi
+- [Samuele Lanzi](https://www.unibo.it/sitoweb/samuele.lanzi2)
 
 <details>
 <summary>Anni precedenti</summary>
