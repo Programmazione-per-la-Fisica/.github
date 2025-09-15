@@ -1,5 +1,23 @@
 Questa organizzazione contiene il materiale del corso di Programmazione per la Fisica per la laurea in Fisica dell'università di Bologna.
 
+# Anno accademico 2025/26
+
+## Canale A-L
+
+- [Pagina del corso su Virtuale](https://virtuale.unibo.it/course/view.php?id=76078)
+- Docente Modulo 1 [Francesco Giacomini](https://www.unibo.it/sitoweb/francesco.giacomini3)
+- Docente Modulo 2 (laboratorio) [Tommaso Diotalevi](https://www.unibo.it/sitoweb/tommaso.diotalevi)
+- Tutor [Samuele Lanzi](https://www.unibo.it/sitoweb/samuele.lanzi2)
+
+## Canale M-Z
+
+- [Pagina del corso su Virtuale](https://virtuale.unibo.it/course/view.php?id=?????)
+- Docente Modulo 1 e Modulo 2 (laboratorio) [Carlo Battilana](https://www.unibo.it/sitoweb/carlo.battilana2)
+- Tutor [Samuele Lanzi](https://www.unibo.it/sitoweb/samuele.lanzi2)
+
+<details>
+<summary>Anni precedenti</summary>
+
 ## Link utili per a.a. 2024/25
 
 - [Pagina del corso su Virtuale](https://virtuale.unibo.it/course/view.php?id=64466)
@@ -14,9 +32,6 @@ Questa organizzazione contiene il materiale del corso di Programmazione per la F
 ## Tutor
 - [Alessandro Fuschi](https://www.unibo.it/sitoweb/alessandro.fuschi2)
 - [Samuele Lanzi](https://www.unibo.it/sitoweb/samuele.lanzi2)
-
-<details>
-<summary>Anni precedenti</summary>
 
 ## Link utili per a.a. 2023/24
 
