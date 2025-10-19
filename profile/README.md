@@ -8,12 +8,13 @@ Questa organizzazione contiene il materiale del corso di Programmazione per la F
 - Docente Modulo 1 [Francesco Giacomini](https://www.unibo.it/sitoweb/francesco.giacomini3)
 - Docente Modulo 2 (laboratorio) [Tommaso Diotalevi](https://www.unibo.it/sitoweb/tommaso.diotalevi)
 - Tutor [Samuele Lanzi](https://www.unibo.it/sitoweb/samuele.lanzi2)
+- Tutor [Licia Mozzina](https://www.unibo.it/sitoweb/licia.mozzina2)
 
 ## Canale M-Z
 
 - [Pagina del corso su Virtuale](https://virtuale.unibo.it/course/view.php?id=?????)
 - Docente Modulo 1 e Modulo 2 (laboratorio) [Carlo Battilana](https://www.unibo.it/sitoweb/carlo.battilana2)
-- Tutor [Samuele Lanzi](https://www.unibo.it/sitoweb/samuele.lanzi2)
+- Tutor [Valentina Cicero](https://www.unibo.it/sitoweb/valentina.cicero2)
 
 <details>
 <summary>Anni precedenti</summary>
