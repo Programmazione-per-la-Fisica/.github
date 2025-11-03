@@ -15,6 +15,7 @@ Questa organizzazione contiene il materiale del corso di Programmazione per la F
 - [Pagina del corso su Virtuale](https://virtuale.unibo.it/course/view.php?id=74839)
 - Docente Modulo 1 e Modulo 2 (laboratorio) [Carlo Battilana](https://www.unibo.it/sitoweb/carlo.battilana2)
 - Tutor [Valentina Cicero](https://www.unibo.it/sitoweb/valentina.cicero2)
+- Tutor [Andrea Nicoletti](https://www.unibo.it/sitoweb/andrea.nicoletti6/)
 
 <details>
 <summary>Anni precedenti</summary>
